@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "window.titleBarStyle": "custom",
+    "editor.fontSize": 15
+}
